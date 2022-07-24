@@ -47,4 +47,4 @@ export const products_url = 'https://ecom-api-node-mongodb.herokuapp.com/api/v1/
 
 //export const single_product_url = `https://course-api.com/react-store-single-product?id=`
 
-export const single_product_url = `https://ecom-api-node-mongodb.herokuapp.com/api/v1/products/:id`
+export const single_product_url = `https://ecom-api-node-mongodb.herokuapp.com/api/v1/products/`
